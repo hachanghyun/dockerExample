@@ -12,7 +12,8 @@
 
 ## 컨테이너 기반?
    
-![dockercontainer](../images/docker/dockercontainer.png)
+![dockercontainer](https://github.com/hachanghyun/dockerExample/assets/33058284/c2a4b109-a4e5-4169-bcb8-a97d88d4141e)
+
 
     격리된 공간에서 프로세스가 동작하는 기술
 
