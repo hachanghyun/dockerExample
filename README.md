@@ -98,7 +98,8 @@ https://hub.docker.com/search?type=image
 
 원하는 컨테이너들 검색한다.
 
-![dockerhub](../images/docker/dockerhub.jpg)
+![dockerhub](https://github.com/hachanghyun/dockerExample/assets/33058284/fa0685a8-7f85-4bd9-920a-732389525fa9)
+
 
 우측 명령어를 복사해서 컨테이너의 이미지를 pull 할 수 있음.
 
@@ -167,7 +168,8 @@ docker images 명령어를 실행시켜본다.
 ## 도커로 웹서버 구성
 </br>
 
-![dockerhost](../images/docker/dockerhost.png)
+![dockerhost](https://github.com/hachanghyun/dockerExample/assets/33058284/c9942773-3b21-4593-a597-4c03767b14f3)
+
 
 #### 과정 
 
